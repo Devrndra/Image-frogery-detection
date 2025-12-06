@@ -1,0 +1,13 @@
+numpy
+opencv-python
+Pillow
+torch
+torchvision
+fastapi
+uvicorn
+python-multipart
+scikit-learn
+matplotlib
+albumentations
+imagehash
+reportlab

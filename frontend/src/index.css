@@ -1,0 +1,4 @@
+/* Resets or global styles if needed. Currently handled in App.css */
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
